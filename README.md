@@ -16,13 +16,11 @@ Steps to do
 
 # Dependencies
 
- - [`parsedatetime`](https://github.com/bear/parsedatetime)
- - [`icalendar`](http://pypi.python.org/pypi/icalendar/) - `pip install icalendar`
-
+ - [`parsedatetime`](https://github.com/dansteeves68/parsedatetime) - requires my patch for "Mmm. DD" period abbreviations
+ - [`icalendar`](http://github.com/dansteeves68/icalendar)
 
 # TODO
 
- - write an ics file
- - sync source with gist
+ - take standard input instead of hard-coded static text
  - make it run as a service
  - make it automagically load into Calendar.app
