@@ -1,34 +1,7 @@
-text = """Products on order: 
-1 x	November Lunch Program - $50.00 
-SKU: october
-Childs Name: Elliot Steeves
-Class: 5
-Dec. 5: No lunch
-Dec. 6: Gluten Free roll up
-Dec. 7: Gluten Free Burrito
-Dec. 8: No Lunch
-Dec. 9: Gluten Free with chicken
-Dec. 12: No lunch
-Dec. 13: Gluten Free roll up
-Dec. 14: Gluten Free Burrito
-Dec. 15: No Lunch
-Dec. 16: Gluten Free with chicken
-Dec. 19: No lunch
-Dec. 20: Gluten Free roll up
-Dec. 26: No lunch
-Dec. 27: Gluten Free roll up
-Dec. 28: Gluten Free Burrito
-Dec. 29: No Lunch
-Dec. 30: Gluten Free with chicken
+#!/usr/bin/python
 
-1 x	November Lunch Program - $74.75 
-SKU: october
-Childs Name: Darcie Steeves-TEACHER
-Class: 4
-Dec. 5: No lunch
-Dec. 6: Gluten Free roll up
-Dec. 7: Gluten Free Burrito
-Dec. 30: Gluten Free with chicken"""
+import sys
+text = sys.stdin.read()
 
 pack_lunches = {}
 person = ''
@@ -82,4 +55,3 @@ print filename
 f = open(filename, 'wb')
 f.write(cal.to_ical())
 f.close()
-
