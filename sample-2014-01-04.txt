@@ -1,0 +1,112 @@
+Payment
+Darcie Steeves
+Master Card ending in 9669
+
+4034 Quentin Ave.
+St. Louis Park, Minnesota 55416
+6123108488
+
+Student Date    Lunch   Price
+Elliot Steeves
+6th grade   Wednesday
+Jan 08, 2014    Burrito
+Option: Vegan/Gluten Free Veggie Burrito Bowl with Tortilla Chips
+5.00
+Elliot Steeves
+6th grade   Monday
+Jan 13, 2014    Chili or Soup
+Option: Chicken Wild Rice Soup (NO ALMONDS) with Dollar Bun
+5.00
+Elliot Steeves
+6th grade   Wednesday
+Jan 15, 2014    Burrito
+Option: Vegan/Gluten Free Veggie Burrito Bowl with Tortilla Chips
+5.00
+Elliot Steeves
+6th grade   Wednesday
+Jan 22, 2014    Burrito
+Option: Vegan/Gluten Free Veggie Burrito Bowl with Tortilla Chips
+5.00
+Elliot Steeves
+6th grade   Monday
+Jan 27, 2014    Chili or Soup
+Option: Chicken Wild Rice Soup (NO ALMONDS) with Dollar Bun
+5.00
+Elliot Steeves
+6th grade   Wednesday
+Jan 29, 2014    Burrito
+Option: Vegan/Gluten Free Veggie Burrito Bowl with Tortilla Chips
+5.00
+Elliot Steeves
+6th grade   Tuesday
+Jan 07, 2014    SunButter & Jelly
+Option: Gluten-free
+5.00
+Elliot Steeves
+6th grade   Tuesday
+Jan 14, 2014    SunButter & Jelly
+Option: Gluten-free
+5.00
+Elliot Steeves
+6th grade   Tuesday
+Jan 21, 2014    SunButter & Jelly
+Option: Gluten-free
+5.00
+Elliot Steeves
+6th grade   Tuesday
+Jan 28, 2014    SunButter & Jelly
+Option: Gluten-free
+5.00
+Quinton Steeves
+3rd grade   Wednesday
+Jan 08, 2014    Burrito
+Option: Burrito Rapidos
+5.00
+Quinton Steeves
+3rd grade   Friday
+Jan 10, 2014    Lasagna or Primavera
+Option: Beef Lasagna Bake
+5.00
+Quinton Steeves
+3rd grade   Monday
+Jan 13, 2014    Chili or Soup
+Option: Chicken Wild Rice Soup (NO ALMONDS) with Dollar Bun
+5.00
+Quinton Steeves
+3rd grade   Wednesday
+Jan 15, 2014    Burrito
+Option: Burrito Rapidos
+5.00
+Quinton Steeves
+3rd grade   Wednesday
+Jan 22, 2014    Burrito
+Option: Burrito Rapidos
+5.00
+Quinton Steeves
+3rd grade   Friday
+Jan 24, 2014    Lasagna or Primavera
+Option: Beef Lasagna Bake
+5.00
+Quinton Steeves
+3rd grade   Monday
+Jan 27, 2014    Chili or Soup
+Option: Chicken Wild Rice Soup (NO ALMONDS) with Dollar Bun
+5.00
+Quinton Steeves
+3rd grade   Wednesday
+Jan 29, 2014    Burrito
+Option: Burrito Rapidos
+5.00
+Quinton Steeves
+3rd grade   Friday
+Jan 31, 2014    Lasagna or Primavera
+Option: Beef Lasagna Bake
+5.00
+Darcie Steeves
+Staff   Wednesday
+Jan 08, 2014    Burrito
+Option: Vegan/Gluten Free Veggie Burrito Bowl with Tortilla Chips
+5.00
+    Subtotal: $100.00
+Tax: $0.00
+Total: $100.00
